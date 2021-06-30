@@ -2,14 +2,15 @@
 <head>
   <title>Color</title>
   <style>
+    h1 {
+    <div contenteditable>
+    ST<span style="color: red">C</span>CK OVERFLOW
+</div>
+    }
   </style>
   <body>
     <h1>Color</h1>
-    <div contenteditable>
-    ST<span style="color: red">A</span>CK OVERFLOW
-</div>
     <p>Disclamer: This webside is created for educational purposes. It is an assignment for school and we cannot conclude this information to be valid. It is simply            copy-pasted onto this website and there had been no research done by us. </p>
-    <h1>Colors:</h1>
     <p><b>Red</b>: The color red can be associated with 'bad' things. Such as fire, violence, warfare, blood, arrogance, conquest, anger or even the Devil. The powerful        color can also represent more loving things. Such as energy, strength, determination, focus, desire, (intense) emotion, courage, wartm, passion and love. <br>
       <b>Orange</b>: The color orange can be associated with enthusiasm, fascination, happiness, creativity, determination, attraction, succes, encouragement,                 stimulation, wartm, strength, stamina, health and vitality. The color orange also increases oxygen flow to the brain. <br>
       <b>Yellow</b>: The color yellow can be associated with joy, brightness, energy, happiness, hope, mind, logic, luck, warmth, cheerfulness, fun, optimism, wealth and       friendship. The bright color can also be associated with anger or danger. <br>
