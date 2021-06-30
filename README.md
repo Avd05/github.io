@@ -38,7 +38,23 @@
         <tr>
           <th>April</th>
           <th>Diamond</th>
-        </th>
+        </tr>
+        <tr>
+          <th>May</th>
+          <th>Emerald</th>
+        </tr>
+        <tr>
+          <th>June</th>
+          <th>Pearl</th>
+        </tr>
+        <tr>
+          <th>July</th>
+          <th>Ruby</th>
+        </tr>
+        <tr>
+          <th>August</th>
+          <th>Sardonyx</th>
+        </tr>
     </table>
     </p>
   </body>
