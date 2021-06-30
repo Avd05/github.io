@@ -2,6 +2,9 @@
 <head>
   <title>Color</title>
   <style>
+    p {
+    font-size: 10 px;
+    }
   </style>
   <body>
     <h1>Color</h1>
