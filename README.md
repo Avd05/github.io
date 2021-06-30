@@ -3,6 +3,7 @@
   <title>Color</title>
   <style>
     p {
+    text-align: center;
     font-size: 10 px;
     }
   </style>
