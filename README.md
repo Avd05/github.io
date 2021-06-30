@@ -20,8 +20,8 @@
       <b>Black</b>: The color black can be associated with strength, power, elegance, intelligence, formation and mystery. The dark color can also represent evil,             sadness, fear, negativity, the unknown and death. </p> 
       <table>
         <tr>
-          <th>idk</th>
-          <th>guess</th>
+          <th><b>idk</b></th>
+          <th><b>guess</b></th>
         </tr>
         <tr>
           <th>no</th>
