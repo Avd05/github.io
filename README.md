@@ -55,6 +55,22 @@
           <th>August</th>
           <th>Sardonyx</th>
         </tr>
+        <tr>
+          <th>September</th>
+          <th>Sapphire</th>
+        </tr>
+        <tr>
+          <th>October</th>
+          <th>Opal</th>
+        </tr>
+        <tr>
+          <th>November</th>
+          <th>Topaz</th>
+        </tr>
+        <tr>
+          <th>December</th>
+          <th>Turquoise/Lapis</th>
+        </tr>
     </table>
     </p>
   </body>
