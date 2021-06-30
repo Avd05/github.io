@@ -23,6 +23,10 @@
           <th>Month</th>
           <th>Gemstone</th>
         </tr>
+        <tr>
+          <th>January</th>
+          <th>Garet</th>
+        </th>
     </table>
     </p>
   </body>
