@@ -31,6 +31,14 @@
           <th>February</th>
           <th>Amethyst</th>
         </tr>
+        <tr>
+          <th>March</th>
+          <th>Bloodstone</th>
+        </tr>
+        <tr>
+          <th>April</th>
+          <th>Diamond</th>
+        </th>
     </table>
     </p>
   </body>
