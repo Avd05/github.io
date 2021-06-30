@@ -72,7 +72,7 @@
           <th>December</th>
           <th>Turquoise/Lapis</th>
         </th>
-    </table> 
+     </table> 
     </p>
   </body>
        
