@@ -73,6 +73,61 @@
           <th>Turquoise/Lapis</th>
         </tr>
     </table>
+    <h1>Modern birthstones, based on the month:</h1>
+    <table>
+      <tr>
+        <th>Month</th>
+        <th>Gemstone</th>
+      </tr>
+      <tr>
+        <th>January</th>
+        <th>Garnet</th>
+      </tr>
+      <tr>
+        <th>February</th>
+        <th>Amethyst</th>
+      </tr>
+      <tr>
+        <th>March</th>
+        <th>Aquamarine</th>
+      </tr>
+      <tr>
+        <th>April</th>
+        <th>Diamond</th>
+      </tr>
+      <tr>
+        <th>May</th>
+        <th>Emerald</th>
+      </tr>
+      <tr>
+        <th>June</th>
+        <th>Alexandrite</th>
+      </tr>
+      <tr>
+        <th>July</th>
+        <th>Ruby</th>
+      </tr>
+      <tr>
+        <th>August</th>
+        <th>Peridot/Spinel</th>
+      </tr>
+      <tr>
+        <th>September</th>
+        <th>Sapphire</th>
+      </tr>
+      <tr>
+        <th>October</th>
+        <th>Tourmaline</th>
+      </tr>
+      <tr>
+        <th>November</th>
+        <th>Topaz/Citrine</th>
+      </tr>
+      <tr>
+        <th>December</th>
+        <th>Zircon/Tanzanite</th>
+      </tr>
+    </table>
     </p>
   </body>
        
