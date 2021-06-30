@@ -18,14 +18,59 @@
       <b>Purple</b>: The color purple can be associated with power, nobility, luxury, ambition, wisdom, dignity, independence, creativity, mystery and magic. Studies           show that nearly 75 percent of children choose purple over all other colors. <br>
       <b>White</b>: The color white can be associated with light, goodness, innocence, purity, perfection, virginity and new beginnings. <br>
       <b>Black</b>: The color black can be associated with strength, power, elegance, intelligence, formation and mystery. The dark color can also represent evil,             sadness, fear, negativity, the unknown and death.
+      
       <table>
         <tr>
-          <th>idk</th>
-          <th>guess</th>
+          <th>Month</th>
+          <th>Gemstone</th>
         </tr>
         <tr>
-          <th>no</th>
-          <th>yes</th>
+          <th>January</th>
+          <th>Garnet</th>
+        </th>
+        <tr>
+          <th>February</th>
+          <th>Amethyst</th>
+        </th>
+        <tr>
+          <th>March</th>
+          <th>Bloodstone</th>
+        </th>
+        <tr>
+          <th>April</th>
+          <th>Diamond</th>
+        </th>
+        <tr>
+          <th>May</th>
+          <th>Emerald</th>
+        </th>
+        <tr>
+          <th>June</th>
+          <th>Pearl</th>
+        </th>
+        <tr>
+          <th>July</th>
+          <th>Ruby</th>
+        </th>
+        <tr>
+          <th>August</th>
+          <th>Sardonyx</th>
+        </th>
+        <tr>
+          <th>September</th>
+          <th>Sapphire</th>
+        </th>
+        <tr>
+          <th>October</th>
+          <th>Opal</th>
+        </th>
+        <tr>
+          <th>November</th>
+          <th>Topaz</th>
+        </th>
+        <tr>
+          <th>December</th>
+          <th>Turquoise/Lapis</th>
         </th>
     </table> </p>
   </body>
