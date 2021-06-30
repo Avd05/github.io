@@ -2,11 +2,6 @@
 <head>
   <title>Color</title>
   <style>
-    h1 {
-    <div contenteditable>
-    ST<span style="color: red">C</span>CK OVERFLOW
-</div>
-    }
   </style>
   <body>
     <h1>Color</h1>
