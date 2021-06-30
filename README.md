@@ -18,17 +18,12 @@
       <b>Purple</b>: The color purple can be associated with power, nobility, luxury, ambition, wisdom, dignity, independence, creativity, mystery and magic. Studies           show that nearly 75 percent of children choose purple over all other colors. <br>
       <b>White</b>: The color white can be associated with light, goodness, innocence, purity, perfection, virginity and new beginnings. <br>
       <b>Black</b>: The color black can be associated with strength, power, elegance, intelligence, formation and mystery. The dark color can also represent evil,             sadness, fear, negativity, the unknown and death.
-      
       <table>
         <tr>
           <th>Month</th>
           <th>Gemstone</th>
         </tr>
-        <tr>
-          <th>January</th>
-          <th>Garnet</th>
-        </tr>
-     </table> 
+    </table>
     </p>
   </body>
        
