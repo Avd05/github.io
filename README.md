@@ -27,51 +27,51 @@
         <tr>
           <th>January</th>
           <th>Garnet</th>
-        </th>
+        </tr>
         <tr>
           <th>February</th>
           <th>Amethyst</th>
-        </th>
+        </tr>
         <tr>
           <th>March</th>
           <th>Bloodstone</th>
-        </th>
+        </tr>
         <tr>
           <th>April</th>
           <th>Diamond</th>
-        </th>
+        </tr>
         <tr>
           <th>May</th>
           <th>Emerald</th>
-        </th>
+        </tr>
         <tr>
           <th>June</th>
           <th>Pearl</th>
-        </th>
+        </tr>
         <tr>
           <th>July</th>
           <th>Ruby</th>
-        </th>
+        </tr>
         <tr>
           <th>August</th>
           <th>Sardonyx</th>
-        </th>
+        </tr>
         <tr>
           <th>September</th>
           <th>Sapphire</th>
-        </th>
+        </tr>
         <tr>
           <th>October</th>
           <th>Opal</th>
-        </th>
+        </tr>
         <tr>
           <th>November</th>
           <th>Topaz</th>
-        </th>
+        </tr>
         <tr>
           <th>December</th>
           <th>Turquoise/Lapis</th>
-        </th>
+        </tr>
      </table> 
     </p>
   </body>
