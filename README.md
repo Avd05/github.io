@@ -26,7 +26,11 @@
         <tr>
           <th>January</th>
           <th>Garet</th>
-        </th>
+        </tr>
+        <tr>
+          <th>February</th>
+          <th>Amethyst</th>
+        </tr>
     </table>
     </p>
   </body>
