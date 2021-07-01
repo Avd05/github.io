@@ -9,7 +9,7 @@
   </style>
   <body>
     <h1>Color</h1>
-    <p><img src=Red.jpg>
+    <p><img src="Red.jpg">
       Disclamer: This webside is created for educational purposes. It is an assignment for school and we cannot conclude this information to be valid. It is simply            copy-pasted onto this website and there had been no research done by us. <br><br>
       <b>Red</b>: The color red can be associated with 'bad' things. Such as fire, violence, warfare, blood, arrogance, conquest, anger or even the Devil. The powerful         color can also represent more loving things. Such as energy, strength, determination, focus, desire, (intense) emotion, courage, wartm, passion and love. <br>
       <b>Orange</b>: The color orange can be associated with enthusiasm, fascination, happiness, creativity, determination, attraction, succes, encouragement,                 stimulation, wartm, strength, stamina, health and vitality. The color orange also increases oxygen flow to the brain. <br>
